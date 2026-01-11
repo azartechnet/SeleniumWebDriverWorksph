@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-11T12:47:38 IST" name="Default suite" finished-at="2026-01-11T12:47:38 IST" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2026-01-11T12:47:38 IST" name="Default test" finished-at="2026-01-11T12:47:38 IST" duration-ms="82">
+      <class name="com.Personal_loan">
+        <test-method is-config="true" signature="before_suite()[pri:0, instance:com.Personal_loan@3c19aaa5]" started-at="2026-01-11T12:47:38 IST" name="before_suite" finished-at="2026-01-11T12:47:38 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_suite -->
+        <test-method signature="personal_loan()[pri:0, instance:com.Personal_loan@3c19aaa5]" started-at="2026-01-11T12:47:38 IST" name="personal_loan" finished-at="2026-01-11T12:47:38 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal_loan -->
+      </class> <!-- com.Personal_loan -->
+      <class name="com.Car_loan">
+        <test-method signature="car_loan()[pri:0, instance:com.Car_loan@2a3b5b47]" started-at="2026-01-11T12:47:38 IST" name="car_loan" finished-at="2026-01-11T12:47:38 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car_loan -->
+      </class> <!-- com.Car_loan -->
+      <class name="com.Home_loan">
+        <test-method signature="home_loan()[pri:0, instance:com.Home_loan@55b699ef]" started-at="2026-01-11T12:47:38 IST" name="home_loan" finished-at="2026-01-11T12:47:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_loan -->
+      </class> <!-- com.Home_loan -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

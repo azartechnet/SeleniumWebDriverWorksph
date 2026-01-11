@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h2>LoginPage</h2>
+        <form>
+            <input type="text" id="user_101" name="username" placeholder="Username"><br><br>
+            <input type="password" id="pass_202" name="password" placeholder="Password"><br><br>
+            <input type="button" id="loginBtn_303" name="login" value="Login" onclick="showMsg()">
+        </form>
+        <p id="result"></p>
+        <script>
+            function showMsg()
+            {
+                document.getElementById("result").innerHTML="LoginSuccess!!!";
+            }
+        </script>
+    </body>
+</html>
